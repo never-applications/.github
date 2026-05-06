@@ -54,13 +54,13 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 
 ## 🌐 Conecte-se com a Never
 
-- 🎮 Discord: [neverapplicatbreve(https://discord.gg/neverapplications)
+- 🎮 Discord: [neverapplications](https://discord.com/users/neverapplications)
 
-- 📸 Instagram: Em breve
+- 📸 Instagram: [@neverapplications](https://instgram.com/neverapplications)
 
-- 🎵 TikTok: Em breve
+- 🎵 TikTok: [@neverapplications](https://tiktok.com/neverapplications)
 
-- 📲 Telegram: Em breve
+- 📲 Telegram: [[@neverapplications](t.me/neverapplications)
 
 ---
 
