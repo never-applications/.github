@@ -56,7 +56,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 
 - 🎮 Discord: [neverapplications](https://discord.com/users/neverapplications)
 
-- 📸 Instagram: [@neverapplications](https://instgram.com/neverapplications)
+- 📸 Instagram: [@neverapplications](https://instagram.com/neverapplications)
 
 - 🎵 TikTok: [@neverapplications](https://tiktok.com/neverapplications)
 
