@@ -1,4 +1,4 @@
-# Never Applications
+# Zarion Applications
 
 > **Tecnologia e automação para comunidades modernas no Discord.**
 A Never Applications cria soluções inteligentes focadas em desempenho, inovação e praticidade, ajudando comunidades a crescerem de forma organizada, segura e eficiente.
@@ -31,7 +31,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ---
 
 
-## 🌟 Diferenciais da Never
+## 🌟 Diferenciais da Zarion
 
 - **Eficiência:** ferramentas projetadas para otimizar a administração.
 
@@ -47,24 +47,24 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ## 📌 Informações da Empresa
 
 - **CNPJ:** Em breve
-- **Site Oficial:** [neverapplications.com.br](https//neverapplications.com.br)
+- **Site Oficial:** [zarionapplications.com.br](https//zarionapplications.com.br)
 
 ---
 
 
-## 🌐 Conecte-se com a Never
+## 🌐 Conecte-se com a Zarion
 
-- 🎮 Discord: [neverapplications](https://discord.com/users/neverapplications)
+- 🎮 Discord: [zairon-applications](https://discord.com/users/zaironapplications)
 
-- 📸 Instagram: [@neverapplications](https://instagram.com/neverapplications)
+- 📸 Instagram: [@zarionapplicationa](https://instagram.com/zaironapplications)
 
-- 🎵 TikTok: [@neverapplications](https://tiktok.com/neverapplications)
+- 🎵 TikTok: [@zarionapplications](https://tiktok.com/zaironapplications)
 
-- 📲 Telegram: [[@neverapplications](t.me/neverapplications)
+- 📲 Telegram: [[@zarionapplications](t.me/zaironapplications)
 
 ---
 
 ## 📜 Licença
 
-Este projeto é de propriedade da **Never Applications.**
+Este projeto é de propriedade da **Zarion Applications.**
 © Todos os direitos reservados.
