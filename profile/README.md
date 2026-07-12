@@ -1,7 +1,7 @@
-# Zarion Applications
+# Vestion Applications
 
 > **Tecnologia e automação para comunidades modernas no Discord.**
-A Never Applications cria soluções inteligentes focadas em desempenho, inovação e praticidade, ajudando comunidades a crescerem de forma organizada, segura e eficiente.
+A Vestion Applications cria soluções inteligentes focadas em desempenho, inovação e praticidade, ajudando comunidades a crescerem de forma organizada, segura e eficiente.
 
 
 ---
@@ -31,7 +31,7 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ---
 
 
-## 🌟 Diferenciais da Zarion
+## 🌟 Diferenciais da Vestion 
 
 - **Eficiência:** ferramentas projetadas para otimizar a administração.
 
@@ -47,24 +47,24 @@ Buscamos oferecer recursos que facilitem o trabalho dos administradores e melhor
 ## 📌 Informações da Empresa
 
 - **CNPJ:** Em breve
-- **Site Oficial:** [zarionapplications.com.br](https//zarionapplications.com.br)
+- **Site Oficial:** [vestionapplications.com.br](https//vestionapplications.com.br)
 
 ---
 
 
-## 🌐 Conecte-se com a Zarion
+## 🌐 Conecte-se com a Vestion
 
-- 🎮 Discord: [zairon-applications](https://discord.com/users/zaironapplications)
+- 🎮 Discord: [vestionapplications](https://discord.com/users/vestionapplications)
 
-- 📸 Instagram: [@zarionapplicationa](https://instagram.com/zaironapplications)
+- 📸 Instagram: [@vestionapplicationa](https://instagram.com/vestionapplications)
 
-- 🎵 TikTok: [@zarionapplications](https://tiktok.com/zaironapplications)
+- 🎵 TikTok: [@vestionapplications](https://tiktok.com/vestionapplications)
 
-- 📲 Telegram: [[@zarionapplications](t.me/zaironapplications)
+- 📲 Telegram: [[@vestionapplications](t.me/vestionapplications)
 
 ---
 
 ## 📜 Licença
 
-Este projeto é de propriedade da **Zarion Applications.**
+Este projeto é de propriedade da **Vestion Applications.**
 © Todos os direitos reservados.
